@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nana 👋
 
-<!--
-**amoahba/amoahba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Network Engineer building on a cybersecurity and IT support foundation.
 
-Here are some ideas to get you started:
+## Background
+- CompTIA Tech+, Google IT Support Certificate, CompTIA Network+ (in progress)
+- Hands-on experience with Active Directory, Microsoft Entra ID, endpoint management, and SOC operations
+- Currently pursuing a Bachelor's in IT at UNT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- CCNA-level networking (routing, switching, VLANs)
+- Python and PowerShell for network/IT automation
+- See my pinned repos below for hands-on labs and scripts
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/nanaefua/)
